@@ -1,0 +1,64 @@
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ul,
+li,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Calibri, sans-serif;
+}
+
+header,
+footer,
+section {
+  width: 100%;
+  float: left;
+}
+
+.header {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  box-shadow: 0 2px 6px 0 rgb(0 0 0 / 12%), inset 0 -1px 0 0 #dadce0;
+}
+
+.container {
+  width: 1300px;
+  margin: auto;
+}
+
+.header1 {
+  float: left;
+  width: 30%;
+}
+
+.header1 img {
+  width: 234px;
+}
+.header2 {
+  float: left;
+  width: 70%;
+  text-align: right;
+}
+
+.header2 ul li {
+  list-style-type: none;
+  display: inline-block;
+  margin-left: 20px;
+  font-size: 20px;
+}
+
+.header2 ul {
+  margin-top: 14px;
+}
+
+.header ul li img {
+  height: 22px;
+}
