@@ -195,3 +195,25 @@ section {
 .course-container img {
   width: 75px;
 }
+
+.call-to-action {
+  background-image: url(../images/call-to-action-bg.jpg);
+  padding: 50px 0;
+  color: #fff;
+  background-position: right top;
+  margin-bottom: 50px;
+}
+
+.call-to-action h1 {
+  margin-bottom: 15px;
+  font-size: 40px;
+}
+.call-to-action h2 {
+  margin-bottom: 15px;
+}
+.call-to-action p {
+  margin-bottom: 15px;
+}
+.call-to-action p {
+  font-size: 20px;
+}
